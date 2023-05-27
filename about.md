@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-cover-img: /assets/imgages/cam.png
+cover-img: /assets/images/cam.png
 ---
 
 Where to start....

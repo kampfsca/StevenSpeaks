@@ -1,10 +1,24 @@
 ---
 layout: page
-title: About
+title: About This Site
 cover-img: /assets/images/cam.png
 ---
 
-Where to start....
+This site has been a running joke inside the Kampfschulte family for several years, and unfortunately it took the untimely demise of our father, Stephen Kampfschulte, to bring it to fruition.
+
+As you may well know, Stephen had a particular temperment. A very generous, kind, and inspiring man in the classroom was often abutted with more mercurial idiosyncracies; he would absolutely fly off the handle at the slightest provocation of technology, far-right ideology, misrepresentation of facts pertaining to the function of government & history, and Nicholas Kampfschulte revving an engine outside his window. Also, any recording or cover of the Animals' 1964 hit *House of the Rising Sun.*
+
+While sometimes jarring, and always loud. We found these outbursts endearing to the man and his character. How this generally calm, humourus, intellgent, and gentle human could so spontaneously flip his lid was a sight to see, so we (his children) took it upon ourselves to record these outbursts for posterity.
+
+Here you'll hear Stephen Kampfschulte with no filter, in all his bombastic glory, espousing his wisdom at top-volume on topics ranging from:
+
+  * Microsoft
+  * Gmail Dual-Authentication
+  * Ice-Makers
+  * The Joe Biden vs. Paul Ryan 2012 Vice Presidential Debate
+  * And *many, many* more
+
+We ask that you not duplicate these recording in any way, and simply enjoy them as they are; hosted on this website. Our father was very stringent about his privacy, and we ask that you honor his wishes. *We could barely get him agree to the conceppt of this website when he was alive.*
 
 
-> Age 61 passed away Thursday, May 25, 2023 peacefully in the presence of family and friends. Steve was born June 6, 1961 in Grand Rapids to Carole (O'Dell) and Thomas Kampfschulte, he was the eldest of four children. He attended West Catholic High School and Aquinas College, where he later returned as an adjunct instructor. He was a devoted educator of 39 years for which he was honored as Kent County's High School Teacher of the year in 2009. In 2022 he retired from Lowell High School after 36 years of service; including heading the Social Studies Department, founding the storied Model U.N. and A.P. Government programs, leading World War II study trips abroad and coaching football. He was a beloved teacher who taught many, inspired countless and rivaled few. He was a captivating lecturer in both his professional and personal life. A proud man of German heritage and longtime resident of the West Side, he enjoyed wading in the pool, listening to polka and hosting memorable parties with his wife Brenda (Muczynski), a sturdy woman of good stock. He was an eccentric, engaging father of Caroline (fiancee Kyle Geary), Andrew (fiancee Grad. School), Nicholas (fiancee Anna DeBraber). He was an effusive, immensely proud grandfather to Eloise Kampfschulte giving her lessons in reading, history and government while bonding over episodes of Frasier. He was a brother to Tommy (Lisa), Anne (Rob), Greg (Darcy). His laughter, wit and volume will be sorely missed. We are truly blessed and thankful for the outpouring of stories, pictures and support from Steve's many friends, colleagues and students. He leaves behind an inspiring community. 
+

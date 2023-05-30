@@ -20,8 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/StevenSpeaks" # the subpath of your site, e.g. /blog
 url: "https://kampfsca.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
-twitter_username: patdryburgh
-github_username:  patdryburgh
+github_username:  kampfsca
 
 # Build settings
 markdown: kramdown
@@ -43,3 +42,18 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+
+podcast:
+  title: Stephen Speaks
+  description: [description]
+  url: /podcast.xml # podcast xml url
+  author: [podcast author]
+  email: [podcast email]
+  logo: [podcast logo url] # logo in 1400 – 3000 pixel
+  language: eng # http://www.loc.gov/standards/iso639-2/php/code_list.php
+  category: legacy # https://help.apple.com/itc/podcasts_connect/#/itc9267a2f12
+  subcategory: [subcategory]
+  type: [podcast type] serial
+  explicit:  true 
+  complete: 'yes' 
+  block: 'yes' 
